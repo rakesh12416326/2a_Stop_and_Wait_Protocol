@@ -59,7 +59,8 @@ s.send("exit".encode())
 s.close()
 
 ```
-## OUTPUT
+## OUTPUT:
+
 <img width="1912" height="1013" alt="Screenshot 2026-11-02 133936" src="https://github.com/user-attachments/assets/76dfb330-4fcb-4497-a67b-473cc7691b74" />
 <img width="1912" height="1002" alt="Screenshot 2026-11-02 134003" src="https://github.com/user-attachments/assets/cda88075-846d-464c-8e89-2596a5df7c64" />
 
